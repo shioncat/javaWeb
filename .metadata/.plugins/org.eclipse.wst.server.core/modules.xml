@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.j2ee.server:Gjun2" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:javaOrder" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:company" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:coffeeSopping" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:test1" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:javaWEB_1" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:mycoffeeWeb" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:test2" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:mycoffee" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:test3" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Gjun" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:javaOrder2" serverId="Apache Tomcat v9.0  at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:coffeeSSopping" serverId="Apache Tomcat v9.0  at localhost"/>
+</modules>

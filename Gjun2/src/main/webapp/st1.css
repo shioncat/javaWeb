@@ -1,0 +1,15 @@
+@charset "BIG5";
+h1{
+	color:red;
+	font-size:36px;
+}
+#s1
+{
+	color:blue;
+	font-size:16px;
+}
+.s2
+{
+	color:green;
+	font-size:26px;
+}
